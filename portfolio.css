@@ -33,13 +33,16 @@ li {
 }
 
 .caption {
-    padding-top: 15px;;
+    padding-top: 15px;
+}
+
+.big{
+    font-size: 1.4rem;
 }
 
 .img-thumbnail {
     padding: 0;
-    border: none;
-    
+    border: none;  
 }
 
 li a {
