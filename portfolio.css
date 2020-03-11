@@ -73,3 +73,7 @@ p.about {
 i {
     color: #e0e0e0;
 }
+
+p.small a {
+    color: steelblue;
+}
