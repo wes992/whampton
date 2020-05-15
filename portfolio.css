@@ -33,12 +33,16 @@ li {
 }
 
 .caption {
-    padding-top: 15px;;
+    padding-top: 15px;
+}
+
+.big{
+    font-size: 1.4rem;
 }
 
 .img-thumbnail {
     padding: 0;
-    border: none;
+    border: none;  
 }
 
 li a {
@@ -62,12 +66,16 @@ p.about {
 }
 
 #logo {
-    float: right;
     margin-top: 5px;
-    padding-right: 15px;
+    margin-right: 10px;
     height: 125px;
+    border-radius: .5rem;
 }
 
 i {
     color: #e0e0e0;
+}
+
+p.small a {
+    color: steelblue;
 }
